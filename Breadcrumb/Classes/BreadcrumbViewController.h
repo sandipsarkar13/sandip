@@ -54,6 +54,7 @@ Copyright (C) 2010 Apple Inc. All Rights Reserved.
 
 #import "CrumbPath.h"
 #import "CrumbPathView.h"
+//BreadcrumbViewController
 
 @interface BreadcrumbViewController : UIViewController <MKMapViewDelegate, CLLocationManagerDelegate>
 {
