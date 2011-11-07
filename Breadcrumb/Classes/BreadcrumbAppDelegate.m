@@ -77,6 +77,8 @@
     // when the user quits the application and it begins the transition to the background state.
     // Use this method to pause ongoing tasks, disable timers, and throttle down OpenGL ES frame rates.
     // Games should use this method to pause the game.
+    
+    NSLog(@"app will wsign active");
 }
 
 - (void)applicationDidEnterBackground:(UIApplication *)application
@@ -91,6 +93,8 @@
     //
     // If your application supports background execution,
     // called instead of applicationWillTerminate: when the user quits.
+    
+    NSLog(@"app did enter background");
 }
 
 
