@@ -64,6 +64,8 @@
     // Add the view controller's view to the window and display.
     [window addSubview:navController.view];
     [window makeKeyAndVisible];
+    
+    NSLog(@"Sandip Test");
 
     return YES;
 }
