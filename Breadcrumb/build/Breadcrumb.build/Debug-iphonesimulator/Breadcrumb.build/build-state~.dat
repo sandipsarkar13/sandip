@@ -1,474 +1,0 @@
-TBreadcrumb
-v7
-r0
-t317201488.915463
-cCheck dependencies
-cProcessInfoPlistFile /SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app/Info.plist Breadcrumb-Info.plist
-cCompileXIB /SANDIP_PROJECTS/Breadcrumb/en.lproj/BreadcrumbViewController.xib
-cCompileXIB /SANDIP_PROJECTS/Breadcrumb/en.lproj/MainWindow.xib
-cCpResource build/Debug-iphonesimulator/Breadcrumb.app/Icon-72.png images/Icon-72.png
-cCpResource build/Debug-iphonesimulator/Breadcrumb.app/Icon-Small-50.png images/Icon-Small-50.png
-cCpResource build/Debug-iphonesimulator/Breadcrumb.app/Icon-Small.png images/Icon-Small.png
-cCpResource build/Debug-iphonesimulator/Breadcrumb.app/Icon-Small@2x.png images/Icon-Small@2x.png
-cCpResource build/Debug-iphonesimulator/Breadcrumb.app/Icon.png images/Icon.png
-cCpResource build/Debug-iphonesimulator/Breadcrumb.app/Icon@2x.png images/Icon@2x.png
-cCpResource build/Debug-iphonesimulator/Breadcrumb.app/iTunesArtwork images/iTunesArtwork
-cProcessPCH /var/folders/DD/DD4AY5pDFoWvFXMCg2MrgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Breadcrumb_Prefix-ayxbekmcvmlgnbevqmlhfagojqmv/Breadcrumb_Prefix.pch.gch Breadcrumb_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Objects-normal/i386/main.o /SANDIP_PROJECTS/Breadcrumb/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Objects-normal/i386/BreadcrumbAppDelegate.o /SANDIP_PROJECTS/Breadcrumb/Classes/BreadcrumbAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Objects-normal/i386/BreadcrumbViewController.o /SANDIP_PROJECTS/Breadcrumb/Classes/BreadcrumbViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Objects-normal/i386/CrumbPath.o /SANDIP_PROJECTS/Breadcrumb/Classes/CrumbPath.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Objects-normal/i386/CrumbPathView.o /SANDIP_PROJECTS/Breadcrumb/Classes/CrumbPathView.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app/Breadcrumb normal i386
-cGenerateDSYMFile /SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app.dSYM /SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app/Breadcrumb
-cTouch /SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
-c000000004C6C30170000000000000110
-t1282158615
-s272
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004C5A4DB60000000000295900
-t1280986550
-s2709760
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
-c000000004C6C2FF1000000000006B7E0
-t1282158577
-s440288
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004C5A4DB0000000000029D580
-t1280986544
-s2741632
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004C5A4DA10000000000001466
-t1280986529
-s5222
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
-c000000004C6C301100000000000002FE
-t1282158609
-s766
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
-c000000004C6C303B000000000016DD50
-t1282158651
-s1498448
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004C6241ED00000000000009CD
-t1281507821
-s2509
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004C6242840000000001E228C0
-t1281507972
-s31598784
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/pthread.h
-c000000004C57909200000000000038F0
-t1280807058
-s14576
-
-N/SANDIP_PROJECTS/Breadcrumb/Breadcrumb_Prefix.pch
-c000000004C04684A00000000000000BD
-t1275357258
-s189
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/SANDIP_PROJECTS/Breadcrumb/Classes/BreadcrumbAppDelegate.h
-c000000004C7470B60000000000000AE2
-t1282699446
-s2786
-i<UIKit/UIKit.h>
-
-N/SANDIP_PROJECTS/Breadcrumb/Classes/BreadcrumbAppDelegate.m
-c000000004C7470B600000000000015B7
-t1282699446
-s5559
-i"BreadcrumbAppDelegate.h"
-i"BreadcrumbViewController.h"
-
-N/SANDIP_PROJECTS/Breadcrumb/Classes/BreadcrumbViewController.h
-c000000004C7470B60000000000000E3D
-t1282699446
-s3645
-i<UIKit/UIKit.h>
-i<MapKit/MapKit.h>
-i"CrumbPath.h"
-i"CrumbPathView.h"
-
-N/SANDIP_PROJECTS/Breadcrumb/Classes/BreadcrumbViewController.m
-c000000004C7470B60000000000002834
-t1282699446
-s10292
-i"BreadcrumbViewController.h"
-
-N/SANDIP_PROJECTS/Breadcrumb/Classes/CrumbPath.h
-c000000004C7470B60000000000000E94
-t1282699446
-s3732
-i<MapKit/MapKit.h>
-i<pthread.h>
-
-N/SANDIP_PROJECTS/Breadcrumb/Classes/CrumbPath.m
-c000000004C7470B60000000000001557
-t1282699446
-s5463
-i"CrumbPath.h"
-
-N/SANDIP_PROJECTS/Breadcrumb/Classes/CrumbPathView.h
-c000000004C7470B60000000000000AA9
-t1282699446
-s2729
-i<MapKit/MapKit.h>
-
-N/SANDIP_PROJECTS/Breadcrumb/Classes/CrumbPathView.m
-c000000004C7470B60000000000001C1E
-t1282699446
-s7198
-i"CrumbPathView.h"
-i"CrumbPath.h"
-
-N/SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Objects-normal/i386/Breadcrumb.LinkFileList
-c000000004D37E4CE000000000000027C
-t1295508686
-s636
-
-N/SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Objects-normal/i386/BreadcrumbAppDelegate.o
-t1295508688
-s53072
-
-N/SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Objects-normal/i386/BreadcrumbViewController.o
-t1295508688
-s66588
-
-N/SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Objects-normal/i386/CrumbPath.o
-t1295508688
-s20432
-
-N/SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Objects-normal/i386/CrumbPathView.o
-t1295508688
-s42292
-
-N/SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Objects-normal/i386/main.o
-t1295508688
-s6280
-
-N/SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app
-t1295508688
-s442
-
-N/SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app.dSYM
-t1295508688
-s102
-
-N/SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app/Breadcrumb
-t1295508688
-s43864
-
-N/SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app/Icon-72.png
-t1295508687
-s1063
-
-N/SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app/Icon-Small-50.png
-t1295508687
-s992
-
-N/SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app/Icon-Small.png
-t1295508687
-s918
-
-N/SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app/Icon-Small@2x.png
-t1295508687
-s1010
-
-N/SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app/Icon.png
-t1295508687
-s1007
-
-N/SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app/Icon@2x.png
-t1295508687
-s1252
-
-N/SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app/Info.plist
-t1295508686
-s775
-
-N/SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app/PkgInfo
-t1295508686
-s8
-
-N/SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app/en.lproj/BreadcrumbViewController.nib
-t1295508687
-s4198
-
-N/SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app/en.lproj/MainWindow.nib
-t1295508687
-s2501
-
-N/SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app/iTunesArtwork
-t1295508687
-s5188
-
-N/SANDIP_PROJECTS/Breadcrumb/en.lproj/BreadcrumbViewController.xib
-c000000004C40BDE30000000000006A3A
-t1279311331
-s27194
-
-N/SANDIP_PROJECTS/Breadcrumb/en.lproj/MainWindow.xib
-c000000004C2D206700000000000066FD
-t1278025831
-s26365
-
-N/SANDIP_PROJECTS/Breadcrumb/images/Icon-72.png
-c000000004C2BC0A20000000000000427
-t1277935778
-s1063
-
-N/SANDIP_PROJECTS/Breadcrumb/images/Icon-Small-50.png
-c000000004C2BC0A200000000000003E0
-t1277935778
-s992
-
-N/SANDIP_PROJECTS/Breadcrumb/images/Icon-Small.png
-c000000004C2BC0A20000000000000396
-t1277935778
-s918
-
-N/SANDIP_PROJECTS/Breadcrumb/images/Icon-Small@2x.png
-c000000004C2BC0A200000000000003F2
-t1277935778
-s1010
-
-N/SANDIP_PROJECTS/Breadcrumb/images/Icon.png
-c000000004C2BC0A200000000000003EF
-t1277935778
-s1007
-
-N/SANDIP_PROJECTS/Breadcrumb/images/Icon@2x.png
-c000000004C2BC0A200000000000004E4
-t1277935778
-s1252
-
-N/SANDIP_PROJECTS/Breadcrumb/images/iTunesArtwork
-c000000004C2BC0A20000000000001444
-t1277935778
-s5188
-
-N/SANDIP_PROJECTS/Breadcrumb/main.m
-c000000004C7470B60000000000000A42
-t1282699446
-s2626
-i<UIKit/UIKit.h>
-
-N/var/folders/DD/DD4AY5pDFoWvFXMCg2MrgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Breadcrumb_Prefix-ayxbekmcvmlgnbevqmlhfagojqmv/Breadcrumb_Prefix.pch.gch
-t1295508688
-s15211536
-
-NBreadcrumb-Info.plist
-c000000004C2D206700000000000004E9
-t1278025831
-s1257
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies317201486#317201486#0(0"0(0#1#0"3343187568374212096#0"0#
-
-CCompileC build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Objects-normal/i386/BreadcrumbAppDelegate.o /SANDIP_PROJECTS/Breadcrumb/Classes/BreadcrumbAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s317201488.523241
-e317201488.673939
-r1
-xCompileC
-xbuild/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Objects-normal/i386/BreadcrumbAppDelegate.o
-x/SANDIP_PROJECTS/Breadcrumb/Classes/BreadcrumbAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@67"Compile /SANDIP_PROJECTS/Breadcrumb/Classes/BreadcrumbAppDelegate.m317201488#317201488#0(0"0(0#0#59"/SANDIP_PROJECTS/Breadcrumb/Classes/BreadcrumbAppDelegate.m8617639200#1895"    cd /SANDIP_PROJECTS/Breadcrumb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Breadcrumb-generated-files.hmap -I/SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Breadcrumb-own-target-headers.hmap -I/SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Breadcrumb-all-target-headers.hmap -iquote /SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Breadcrumb-project-headers.hmap -F/SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator -I/SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/include -I/SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/DerivedSources/i386 -I/SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/DerivedSources -include /var/folders/DD/DD4AY5pDFoWvFXMCg2MrgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Breadcrumb_Prefix-ayxbekmcvmlgnbevqmlhfagojqmv/Breadcrumb_Prefix.pch -c /SANDIP_PROJECTS/Breadcrumb/Classes/BreadcrumbAppDelegate.m -o /SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Objects-normal/i386/BreadcrumbAppDelegate.o0#
-
-CCompileC build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Objects-normal/i386/BreadcrumbViewController.o /SANDIP_PROJECTS/Breadcrumb/Classes/BreadcrumbViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s317201488.608699
-e317201488.772542
-r1
-xCompileC
-xbuild/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Objects-normal/i386/BreadcrumbViewController.o
-x/SANDIP_PROJECTS/Breadcrumb/Classes/BreadcrumbViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@70"Compile /SANDIP_PROJECTS/Breadcrumb/Classes/BreadcrumbViewController.m317201488#317201488#0(0"0(0#0#62"/SANDIP_PROJECTS/Breadcrumb/Classes/BreadcrumbViewController.m8622416512#1901"    cd /SANDIP_PROJECTS/Breadcrumb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Breadcrumb-generated-files.hmap -I/SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Breadcrumb-own-target-headers.hmap -I/SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Breadcrumb-all-target-headers.hmap -iquote /SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Breadcrumb-project-headers.hmap -F/SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator -I/SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/include -I/SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/DerivedSources/i386 -I/SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/DerivedSources -include /var/folders/DD/DD4AY5pDFoWvFXMCg2MrgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Breadcrumb_Prefix-ayxbekmcvmlgnbevqmlhfagojqmv/Breadcrumb_Prefix.pch -c /SANDIP_PROJECTS/Breadcrumb/Classes/BreadcrumbViewController.m -o /SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Objects-normal/i386/BreadcrumbViewController.o0#
-
-CCompileC build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Objects-normal/i386/CrumbPath.o /SANDIP_PROJECTS/Breadcrumb/Classes/CrumbPath.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s317201488.674040
-e317201488.774331
-r1
-xCompileC
-xbuild/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Objects-normal/i386/CrumbPath.o
-x/SANDIP_PROJECTS/Breadcrumb/Classes/CrumbPath.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@55"Compile /SANDIP_PROJECTS/Breadcrumb/Classes/CrumbPath.m317201488#317201488#0(0"0(0#0#47"/SANDIP_PROJECTS/Breadcrumb/Classes/CrumbPath.m8617859008#1871"    cd /SANDIP_PROJECTS/Breadcrumb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Breadcrumb-generated-files.hmap -I/SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Breadcrumb-own-target-headers.hmap -I/SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Breadcrumb-all-target-headers.hmap -iquote /SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Breadcrumb-project-headers.hmap -F/SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator -I/SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/include -I/SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/DerivedSources/i386 -I/SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/DerivedSources -include /var/folders/DD/DD4AY5pDFoWvFXMCg2MrgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Breadcrumb_Prefix-ayxbekmcvmlgnbevqmlhfagojqmv/Breadcrumb_Prefix.pch -c /SANDIP_PROJECTS/Breadcrumb/Classes/CrumbPath.m -o /SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Objects-normal/i386/CrumbPath.o0#
-
-CCompileC build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Objects-normal/i386/CrumbPathView.o /SANDIP_PROJECTS/Breadcrumb/Classes/CrumbPathView.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s317201488.772654
-e317201488.865968
-r1
-xCompileC
-xbuild/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Objects-normal/i386/CrumbPathView.o
-x/SANDIP_PROJECTS/Breadcrumb/Classes/CrumbPathView.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@59"Compile /SANDIP_PROJECTS/Breadcrumb/Classes/CrumbPathView.m317201488#317201488#0(0"0(0#0#51"/SANDIP_PROJECTS/Breadcrumb/Classes/CrumbPathView.m8612468800#1879"    cd /SANDIP_PROJECTS/Breadcrumb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Breadcrumb-generated-files.hmap -I/SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Breadcrumb-own-target-headers.hmap -I/SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Breadcrumb-all-target-headers.hmap -iquote /SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Breadcrumb-project-headers.hmap -F/SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator -I/SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/include -I/SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/DerivedSources/i386 -I/SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/DerivedSources -include /var/folders/DD/DD4AY5pDFoWvFXMCg2MrgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Breadcrumb_Prefix-ayxbekmcvmlgnbevqmlhfagojqmv/Breadcrumb_Prefix.pch -c /SANDIP_PROJECTS/Breadcrumb/Classes/CrumbPathView.m -o /SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Objects-normal/i386/CrumbPathView.o0#
-
-CCompileC build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Objects-normal/i386/main.o /SANDIP_PROJECTS/Breadcrumb/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s317201488.521807
-e317201488.608594
-r1
-xCompileC
-xbuild/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Objects-normal/i386/main.o
-x/SANDIP_PROJECTS/Breadcrumb/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@42"Compile /SANDIP_PROJECTS/Breadcrumb/main.m317201488#317201488#0(0"0(0#0#34"/SANDIP_PROJECTS/Breadcrumb/main.m8635330720#1853"    cd /SANDIP_PROJECTS/Breadcrumb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Breadcrumb-generated-files.hmap -I/SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Breadcrumb-own-target-headers.hmap -I/SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Breadcrumb-all-target-headers.hmap -iquote /SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Breadcrumb-project-headers.hmap -F/SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator -I/SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/include -I/SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/DerivedSources/i386 -I/SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/DerivedSources -include /var/folders/DD/DD4AY5pDFoWvFXMCg2MrgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Breadcrumb_Prefix-ayxbekmcvmlgnbevqmlhfagojqmv/Breadcrumb_Prefix.pch -c /SANDIP_PROJECTS/Breadcrumb/main.m -o /SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Objects-normal/i386/main.o0#
-
-CCompileXIB /SANDIP_PROJECTS/Breadcrumb/en.lproj/BreadcrumbViewController.xib
-s317201486.759106
-e317201487.447965
-r1
-xCompileXIB
-x/SANDIP_PROJECTS/Breadcrumb/en.lproj/BreadcrumbViewController.xib
-lSLF07#2@48"CompileXIB en.lproj/BreadcrumbViewController.xib317201486#317201487#0(0"0(0#0#65"/SANDIP_PROJECTS/Breadcrumb/en.lproj/BreadcrumbViewController.xib8605632672#586"    cd /SANDIP_PROJECTS/Breadcrumb    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app/en.lproj/BreadcrumbViewController.nib /SANDIP_PROJECTS/Breadcrumb/en.lproj/BreadcrumbViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
-
-CCompileXIB /SANDIP_PROJECTS/Breadcrumb/en.lproj/MainWindow.xib
-s317201486.759937
-e317201487.200755
-r1
-xCompileXIB
-x/SANDIP_PROJECTS/Breadcrumb/en.lproj/MainWindow.xib
-lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib317201486#317201487#0(0"0(0#0#51"/SANDIP_PROJECTS/Breadcrumb/en.lproj/MainWindow.xib8605384512#558"    cd /SANDIP_PROJECTS/Breadcrumb    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app/en.lproj/MainWindow.nib /SANDIP_PROJECTS/Breadcrumb/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
-
-CCpResource build/Debug-iphonesimulator/Breadcrumb.app/Icon-72.png images/Icon-72.png
-s317201487.200853
-e317201487.216831
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Breadcrumb.app/Icon-72.png
-ximages/Icon-72.png
-lSLF07#2@23"Copy images/Icon-72.png317201487#317201487#0(0"0(0#0#46"/SANDIP_PROJECTS/Breadcrumb/images/Icon-72.png8590063808#432"    cd /SANDIP_PROJECTS/Breadcrumb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /SANDIP_PROJECTS/Breadcrumb/images/Icon-72.png /SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app0#
-
-CCpResource build/Debug-iphonesimulator/Breadcrumb.app/Icon-Small-50.png images/Icon-Small-50.png
-s317201487.201604
-e317201487.216952
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Breadcrumb.app/Icon-Small-50.png
-ximages/Icon-Small-50.png
-lSLF07#2@29"Copy images/Icon-Small-50.png317201487#317201487#0(0"0(0#0#52"/SANDIP_PROJECTS/Breadcrumb/images/Icon-Small-50.png8617828448#438"    cd /SANDIP_PROJECTS/Breadcrumb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /SANDIP_PROJECTS/Breadcrumb/images/Icon-Small-50.png /SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app0#
-
-CCpResource build/Debug-iphonesimulator/Breadcrumb.app/Icon-Small.png images/Icon-Small.png
-s317201487.202247
-e317201487.217060
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Breadcrumb.app/Icon-Small.png
-ximages/Icon-Small.png
-lSLF07#2@26"Copy images/Icon-Small.png317201487#317201487#0(0"0(0#0#49"/SANDIP_PROJECTS/Breadcrumb/images/Icon-Small.png8617720864#435"    cd /SANDIP_PROJECTS/Breadcrumb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /SANDIP_PROJECTS/Breadcrumb/images/Icon-Small.png /SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app0#
-
-CCpResource build/Debug-iphonesimulator/Breadcrumb.app/Icon-Small@2x.png images/Icon-Small@2x.png
-s317201487.203053
-e317201487.217170
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Breadcrumb.app/Icon-Small@2x.png
-ximages/Icon-Small@2x.png
-lSLF07#2@29"Copy images/Icon-Small@2x.png317201487#317201487#0(0"0(0#0#52"/SANDIP_PROJECTS/Breadcrumb/images/Icon-Small@2x.png8617629632#438"    cd /SANDIP_PROJECTS/Breadcrumb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /SANDIP_PROJECTS/Breadcrumb/images/Icon-Small@2x.png /SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app0#
-
-CCpResource build/Debug-iphonesimulator/Breadcrumb.app/Icon.png images/Icon.png
-s317201487.208332
-e317201487.219014
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Breadcrumb.app/Icon.png
-ximages/Icon.png
-lSLF07#2@20"Copy images/Icon.png317201487#317201487#0(0"0(0#0#43"/SANDIP_PROJECTS/Breadcrumb/images/Icon.png8617562848#429"    cd /SANDIP_PROJECTS/Breadcrumb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /SANDIP_PROJECTS/Breadcrumb/images/Icon.png /SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app0#
-
-CCpResource build/Debug-iphonesimulator/Breadcrumb.app/Icon@2x.png images/Icon@2x.png
-s317201487.209840
-e317201487.219230
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Breadcrumb.app/Icon@2x.png
-ximages/Icon@2x.png
-lSLF07#2@23"Copy images/Icon@2x.png317201487#317201487#0(0"0(0#0#46"/SANDIP_PROJECTS/Breadcrumb/images/Icon@2x.png8617462112#432"    cd /SANDIP_PROJECTS/Breadcrumb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /SANDIP_PROJECTS/Breadcrumb/images/Icon@2x.png /SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app0#
-
-CCpResource build/Debug-iphonesimulator/Breadcrumb.app/iTunesArtwork images/iTunesArtwork
-s317201487.214264
-e317201487.223473
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Breadcrumb.app/iTunesArtwork
-ximages/iTunesArtwork
-lSLF07#2@25"Copy images/iTunesArtwork317201487#317201487#0(0"0(0#0#48"/SANDIP_PROJECTS/Breadcrumb/images/iTunesArtwork8617404672#434"    cd /SANDIP_PROJECTS/Breadcrumb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /SANDIP_PROJECTS/Breadcrumb/images/iTunesArtwork /SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app0#
-
-CGenerateDSYMFile /SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app.dSYM /SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app/Breadcrumb
-s317201488.893545
-e317201488.912199
-r1
-xGenerateDSYMFile
-x/SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app.dSYM
-x/SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app/Breadcrumb
-lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/Breadcrumb.app.dSYM build/Debug-iphonesimulator/Breadcrumb.app/Breadcrumb317201488#317201488#0(0"0(0#0#81"/SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app/Breadcrumb8590288512#359"    cd /SANDIP_PROJECTS/Breadcrumb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app/Breadcrumb -o /SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app.dSYM0#
-
-CLd /SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app/Breadcrumb normal i386
-s317201488.866066
-e317201488.893428
-r1
-xLd
-x/SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app/Breadcrumb
-xnormal
-xi386
-lSLF07#2@86"Link /SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app/Breadcrumb317201488#317201488#0(0"0(0#0#0"8602897280#902"    cd /SANDIP_PROJECTS/Breadcrumb    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator -F/SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator -filelist /SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Objects-normal/i386/Breadcrumb.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -framework CoreLocation -o /SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app/Breadcrumb0#
-
-CProcessInfoPlistFile /SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app/Info.plist Breadcrumb-Info.plist
-s317201486.755334
-e317201486.758970
-r1
-xProcessInfoPlistFile
-x/SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app/Info.plist
-xBreadcrumb-Info.plist
-lSLF07#2@29"Process Breadcrumb-Info.plist317201486#317201486#0(0"0(0#0#49"/SANDIP_PROJECTS/Breadcrumb/Breadcrumb-Info.plist32088624093986912#455"    cd /SANDIP_PROJECTS/Breadcrumb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Breadcrumb-Info.plist -genpkginfo /SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app/Info.plist0#
-
-CProcessPCH /var/folders/DD/DD4AY5pDFoWvFXMCg2MrgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Breadcrumb_Prefix-ayxbekmcvmlgnbevqmlhfagojqmv/Breadcrumb_Prefix.pch.gch Breadcrumb_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s317201487.448113
-e317201488.521658
-r1
-xProcessPCH
-x/var/folders/DD/DD4AY5pDFoWvFXMCg2MrgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Breadcrumb_Prefix-ayxbekmcvmlgnbevqmlhfagojqmv/Breadcrumb_Prefix.pch.gch
-xBreadcrumb_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@32"Precompile Breadcrumb_Prefix.pch317201487#317201488#0(0"0(0#0#49"/SANDIP_PROJECTS/Breadcrumb/Breadcrumb_Prefix.pch8617889472#1753"    cd /SANDIP_PROJECTS/Breadcrumb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Breadcrumb-generated-files.hmap -I/SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Breadcrumb-own-target-headers.hmap -I/SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Breadcrumb-all-target-headers.hmap -iquote /SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/Breadcrumb-project-headers.hmap -F/SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator -I/SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/include -I/SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/DerivedSources/i386 -I/SANDIP_PROJECTS/Breadcrumb/build/Breadcrumb.build/Debug-iphonesimulator/Breadcrumb.build/DerivedSources -c /SANDIP_PROJECTS/Breadcrumb/Breadcrumb_Prefix.pch -o /var/folders/DD/DD4AY5pDFoWvFXMCg2MrgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Breadcrumb_Prefix-ayxbekmcvmlgnbevqmlhfagojqmv/Breadcrumb_Prefix.pch.gch0#
-
-CTouch /SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app
-s317201488.912287
-e317201488.915419
-r1
-xTouch
-x/SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app
-lSLF07#2@76"Touch /SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app317201488#317201488#0(0"0(0#0#0"8612750656#259"    cd /SANDIP_PROJECTS/Breadcrumb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /SANDIP_PROJECTS/Breadcrumb/build/Debug-iphonesimulator/Breadcrumb.app0#
-
